@@ -1,0 +1,10 @@
+name: example
+description: A Dart command line application
+
+environment:
+  sdk: '>=2.4.0'
+
+dependencies:
+  dargon2: ^2.1.0
+  steel_crypt: ^1.5.4
+  cryptography: ^2.0.1
